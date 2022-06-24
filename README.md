@@ -7,8 +7,8 @@
 
 <h3>📄 Favorite Languages:</h3>
 <p>
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a>
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a>
 </p>
 
 <br>
@@ -22,15 +22,60 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://spotify-profile-play.vercel.app/top-tracks?i=1&open"><img src="https://spotify-profile-play.vercel.app/top-tracks?i=1" width="540" height="64"></a></td>
+      <td>
+        <a href="https://spotify-profile-play.vercel.app/top-tracks?top=1&open">
+        <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=1&theme=dark">
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=1&theme=light">
+          <img alt="#1 Song most listened by Demian in the month"
+            src="https://spotify-profile-play.vercel.app/top-tracks?top=1&theme=dark"
+            width="540"
+            height="64">
+        </picture>
+        </a>
+      </td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://spotify-profile-play.vercel.app/top-tracks?i=2&open"><img src="https://spotify-profile-play.vercel.app/top-tracks?i=2" width="540" height="64"></a></td>
+      <td>
+        <a href="https://spotify-profile-play.vercel.app/top-tracks?top=2&open">
+        <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=2&theme=dark">
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=2&theme=light">
+          <img alt="#1 Song most listened by Demian in the month"
+            src="https://spotify-profile-play.vercel.app/top-tracks?top=2&theme=dark"
+            width="540"
+            height="64">
+        </picture>
+        </a>
+      </td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
-      <td><a href="https://spotify-profile-play.vercel.app/top-tracks?i=3&open"><img src="https://spotify-profile-play.vercel.app/top-tracks?i=3" width="540" height="64"></a></td>
+      <td>
+        <a href="https://spotify-profile-play.vercel.app/top-tracks?top=3&open">
+        <picture>
+        <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=3&theme=dark">
+        <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://spotify-profile-play.vercel.app/top-tracks?top=3&theme=light">
+          <img alt="#1 Song most listened by Demian in the month"
+            src="https://spotify-profile-play.vercel.app/top-tracks?top=3&theme=dark"
+            width="540"
+            height="64">
+        </picture>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
