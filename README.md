@@ -41,56 +41,122 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<!-- PostgreSQL -->
-<img
-  align="center"
-  src="./assets/postgresql.svg"
-  height="30"
-  width="40" />
-<!-- Python -->
-<img
-  align="center"
-  src="./assets/python.svg"
-  height="30"
-  width="40" />
-<!-- Python -->
-<img
-  align="center"
-  src="./assets/javascript.svg"
-  height="30"
-  width="40" />
-<!-- Pandas -->
-<img
-  align="center"
-  src="./assets/pandas.svg"
-  height="30"
-  width="40" />
-<!-- Scikit-Learn -->
-<img
-  align="center"
-  src="./assets/scikit.svg"
-  height="30"
-  width="40" />
-<!-- TensorFlow -->
-<img
-  align="center"
-  src="./assets/tensorflow.svg"
-  height="30"
-  width="40" />
-<!-- Seaborn -->
-<img
-  align="center"
-  src="./assets/seaborn.svg"
-  height="30"
-  width="40" />
-</p>
+<table
+  style="
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  "
+>
+  <thead>
+    <tr style="border: 1px solid #766262" align="center">
+      <th>Languages and Tools:</th>
+    </tr>
+  </thead>
+  <tbody style="display: flex; flex-direction: column">
+    <tr style="border: 1px solid #766262" align="center">
+      <td>Programming Languages</td>
+    </tr>
+    <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
+      <td align="center" display="flex">
+        Python
+        <img
+          alt="Python"
+          align="center"
+          src="./assets/python.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td align="center" display="flex">
+        SQL
+        <img
+          alt="PostgreSQL"
+          align="center"
+          src="./assets/postgresql.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td align="center" display="flex">
+        JavaScript
+        <img
+          alt="JavaScript"
+          align="center"
+          src="./assets/javascript.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+    </tr>
+    <tr style="border: 1px solid #766262" align="center">
+      <td>Data Visualization Tools</td>
+    </tr>
+    <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
+      <td align="center" display="flex">
+        Seaborn
+        <img
+          alt="Seaborn"
+          align="center"
+          src="./assets/seaborn.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td align="center" display="flex">
+        Tableau
+        <img
+          alt="Tableau"
+          align="center"
+          src="./assets/tableau.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+    </tr>
+    <tr style="border: 1px solid #766262" align="center">
+      <td>Data Science Tools</td>
+    </tr>
+    <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
+      <td align="center" display="flex">
+        Pandas
+        <img
+          alt="Pandas"
+          align="center"
+          src="./assets/pandas.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td align="center" display="flex">
+        Scikit-Learn
+        <img
+          alt="Scikit-learn"
+          align="center"
+          src="./assets/scikit.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+      <td align="center" display="flex">
+        TensorFlow
+        <img
+          alt="TensorFlow"
+          align="center"
+          src="./assets/tensorflow.svg"
+          height="30"
+          width="40"
+        />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 <br>
 
-<i>I convert music and a cup of fresh coffee in Code</i>
+<i>I transform music and fresh cup of coffee into code</i>
 <table>
   <thead>
     <tr>
