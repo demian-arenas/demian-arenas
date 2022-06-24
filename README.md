@@ -1,29 +1,23 @@
-### Hi there 👋
+### Hello, my name is Demian Arenas <img src="./assets/wave.gif"  width="50"  height="50">
 
-<!--
-**demian-arenas/demian-arenas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm a Data Scientist from Mexico City 🌮
+* Passionate learner always looking for something new 🧐
+* I'm a problem solving enthusiast by data insights📊
+* ⛽My engine: Music and a cup of fresh coffee
 
-Here are some ideas to get you started:
+<h3>📄 Favorite Languages:</h3>
+<p>
+<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://spotify-profile-play.vercel.app/now-playing?open"><img src="https://spotify-profile-play.vercel.app/now-playing" width="540" height="64"></a> |
-
+<br>
+<br>
 
 <table>
   <thead>
     <tr>
-      <th>📈 Top Tracks</th>
+      <th>🎵 This month I was engaged with this tracks</th>
     </tr>
   </thead>
   <tbody>
