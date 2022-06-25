@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <!-- Twitter -->
-<a 
+<a
   href="https://twitter.com/demianarenas"
   target="blank">
   <img
@@ -21,7 +21,7 @@
 <a
   href="https://linkedin.com/in/demianarenas"
   target="blank">
-  <img 
+  <img
     align="center"
     src="./assets/linkedin.svg"
     alt="LinkedIn icon that opens to Demian's LinkedIn profile"
@@ -29,7 +29,7 @@
     width="40" />
 </a>
  <!-- Kaggle -->
-<a 
+<a
   href="https://kaggle.com/demianarenas"
   target="blank">
   <img
@@ -51,12 +51,16 @@
 >
   <thead>
     <tr style="border: 1px solid #766262" align="center">
-      <th>Languages and Tools:</th>
+      <td></td>
+      <th width="100%">Languages and Tools:</th>
+     <td></td>
     </tr>
   </thead>
   <tbody style="display: flex; flex-direction: column">
     <tr style="border: 1px solid #766262" align="center">
-      <td>Programming Languages</td>
+     <td></td>
+     <td width="100%">Programming Languages</td>
+     <td></td>
     </tr>
     <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
       <td align="center" display="flex">
@@ -91,9 +95,21 @@
       </td>
     </tr>
     <tr style="border: 1px solid #766262" align="center">
-      <td>Data Visualization Tools</td>
-    </tr>
+     <td></td>
+     <td width="100%">Data Visualization Tools</td>
+     <td></td>
+   </tr>
     <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
+      <td align="center" display="flex">
+        Metabase
+        <img
+          alt="Metabase"
+          align="center"
+          src="./assets/metabase.svg"
+          height="30"
+          width="40"
+        />
+      </td>
       <td align="center" display="flex">
         Seaborn
         <img
@@ -116,7 +132,9 @@
       </td>
     </tr>
     <tr style="border: 1px solid #766262" align="center">
-      <td>Data Science Tools</td>
+     <td></td>
+     <td width="100%">Data Science Tools</td>
+     <td></td>
     </tr>
     <tr style="border: 1px solid #766262" style="display: flex; justify-content: space-evenly">
       <td align="center" display="flex">
